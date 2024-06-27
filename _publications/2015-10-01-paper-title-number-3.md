@@ -1,13 +1,11 @@
 ---
-title: "Paper Title Number 3"
+title: "DISCO: A Large Scale Human Annotated Corpus for Disfluency Correction in Indo-European Languages"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+permalink: /publication/disco-emnlp
+excerpt: 'Through this project, we created a novel dataset for Disfluency Correction in English and 3 under-represented languages - Hindi, German and French. We benchmarked various transformer architectures for sequence labelling styled disfluency correction, and demonstrate key features of the proposed dataset that previous works was lacking.'
+date: 2023-10-25
+venue: 'Empirical Methods in Natural Language Processing (EMNLP) 2023 (Findings)'
+paperurl: 'https://aclanthology.org/2023.findings-emnlp.855.pdf'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Disfluency correction (DC) is the process of removing disfluent elements like fillers, repetitions and corrections from spoken utterances to create readable and interpretable text. DC is a vital post-processing step applied to Automatic Speech Recognition (ASR) outputs, before subsequent processing by downstream language understanding tasks. Existing DC research has primarily focused on English due to the unavailability of large-scale open-source datasets. Towards the goal of multilingual disfluency correction, we present a high-quality human-annotated DC corpus covering four important Indo-European languages: English, Hindi, German and French. We provide extensive analysis of results of state-of-the-art DC models across all four languages obtaining F1 scores of 97.55 (English), 94.29 (Hindi), 95.89 (German) and 92.97 (French). To demonstrate the benefits of DC on downstream tasks, we show that DC leads to 5.65 points increase in BLEU scores on average when used in conjunction with a state-of-the-art Machine Translation (MT) system. We release code to run our experiments along with our annotated dataset [here](https://github.com/vineet2104/DISCO).
