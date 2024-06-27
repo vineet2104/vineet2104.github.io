@@ -1,6 +1,5 @@
 ---
-title: "Grounding LLMs For Robot Task Planning
-Using Closed-loop State Feedback"
+title: "Grounding LLMs For Robot Task Planning Using Closed-loop State Feedback"
 collection: publications
 permalink: /publication/BBLLM-Arxiv
 excerpt: 'This paper discusses a novel approach to robotic task planning, using a Two-LLM system for breaking down a complex task into executable plans followed by grounding to the robotic environment. We leverage environmental state information and error messages during execution to guide the LLM planner for task resolution. Our paper achieves improved results in the popular VirtualHome robotic simulation environment'
