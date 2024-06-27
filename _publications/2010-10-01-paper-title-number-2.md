@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'In this work, we create a webservice demonstrating capabilities of speech to speech disfluency correction. Given a disfluent speech utterance in English or Hindi, the model first transcribes the speech using a powerful Speech To Text system. The transcribed text is cleaned using our SOTA disfluency correction models followed by speech synthesis.'
 date: 2023-05-26
-venue: 'Interspeech 2023 (Show & Tell Demonstrations)
+venue: 'Interspeech 2023 (Show \& Tell Demonstrations)
 paperurl: 'https://www.isca-archive.org/interspeech_2023/bhat23_interspeech.pdf'
 ---
 
