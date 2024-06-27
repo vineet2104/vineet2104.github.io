@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/disco-emnlp
 excerpt: 'Through this project, we created a novel dataset for Disfluency Correction in English and 3 under-represented languages - Hindi, German and French. We benchmarked various transformer architectures for sequence labelling styled disfluency correction, and demonstrate key features of the proposed dataset that previous works was lacking.'
 date: 2023-10-25
-venue: 'Empirical Methods in Natural Language Processing (EMNLP) 2023 (Findings)'
+venue: 'Empirical Methods in Natural Language Processing (EMNLP) (Findings)'
 paperurl: 'https://aclanthology.org/2023.findings-emnlp.855.pdf'
 ---
 
