@@ -1,5 +1,5 @@
 ---
-title: "MedPrime Technologies"
+title: "MedPrime Technologies - Data Science Intern"
 collection: experience
 type: "Data Science Intern"
 permalink: /experience/2019-spring-experience-1
