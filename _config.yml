@@ -206,10 +206,10 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  projects:
     output: true
     permalink: /:collection/:path/
-  talks:
+  experience:
     output: true
     permalink: /:collection/:path/
 
