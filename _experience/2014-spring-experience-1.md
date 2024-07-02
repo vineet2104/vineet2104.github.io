@@ -4,7 +4,6 @@ collection: experience
 type: "Data Science Intern"
 permalink: /experience/2019-spring-experience-1
 venue: ""
-date:
 location: "Mumbai, India"
 ---
 
