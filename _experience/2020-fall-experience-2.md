@@ -9,6 +9,8 @@ location: "Bengaluru, India (Remote)"
 
 Huawei Technologies India is the largest overseas software development center of Huawei, a leading global information and communications technology (ICT) solutions provider. Established in the year 1999 in Bengaluru, Huawei Technologies India is engaged in component / platform / product development aligned with Huawei’s global product development strategy, roadmap, architecture & solutions.
 
+### Key Contributions:
+
 * **Speech Language Detection:**
   - **Objective:** Develop a machine learning model to detect language from speech utterances for European languages.
   - **Actions:** 
