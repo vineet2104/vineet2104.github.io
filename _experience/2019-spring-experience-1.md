@@ -7,23 +7,5 @@ venue: "Data Science Intern"
 location: "Mumbai, India"
 ---
 
-MedPrime Technologies is a pioneering medical device company dedicated to creating customer-centric solutions for global healthcare needs. During my second year of undergrad, I collaborated closely with the CTO through an internship to design a Python-based backend software that assists doctors in predicting the suitability of sperm samples for Human IVF. You can find more details about the company [here](https://www.medprimetech.com/).
+[MedPrime Technologies](https://www.medprimetech.com/) is a pioneering medical device company dedicated to creating customer-centric solutions for global healthcare needs. During my second year of undergrad, I collaborated closely with the CTO through an internship to design a Python-based backend software that assists doctors in predicting the suitability of sperm samples for Human IVF. You can find more details about the company. I researched key metrics used by doctors to evaluate sperm quality by reviewing scientific papers and consulting medical professionals. Based on this, I developed Python scripts using OpenCV for analyzing microscopic sperm sample videos, implementing blob detection and object tracking to measure motility parameters. To enhance usability, I built a Tkinter-based frontend for video upload, metric calculation, and annotation. The software received positive feedback from doctors and was successfully integrated into the company's product line.
 
-### Key Contributions:
-
-* **Research:**
-  - **Objective:** Identify critical metrics used by doctors to evaluate sperm quality.
-  - **Actions:** Conducted an in-depth review of research papers recommended by the CTO and consulted with a panel of doctors.
-  - **Results:** Established a comprehensive strategy for measuring parameters such as motility and transparency through microscopic sperm sample videos.
-
-* **Development:**
-  - **Objective:** Develop software to analyze sperm sample videos and report evaluation metrics.
-  - **Actions:** Wrote Python scripts utilizing OpenCV functions, including blob detection and object tracking, to measure motility parameters.
-  - **Results:** Created a robust Python-based backend software capable of calculating and reporting sperm quality metrics from microscope videos.
-
-* **Demonstration:**
-  - **Objective:** Create a user-friendly frontend to demonstrate the software to doctors.
-  - **Actions:** Developed a simple Tkinter-based Python frontend providing a UI for uploading videos, calculating metrics, and annotating sample videos.
-  - **Results:** The project received positive feedback from doctors, and the core scripts were integrated into the company's product line.
-
----
