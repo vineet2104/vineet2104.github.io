@@ -1,6 +1,6 @@
 ---
 title: "BOP-ASK: Object-Interaction Reasoning for Vision-Language Models"
-excerpt: "<br/><img src='/images/igure1_nvidia_bop-ask.png'>"
+excerpt: "<br/><img src='/images/figure1_nvidia_bop-ask.png'>"
 collection: projects
 ---
 
