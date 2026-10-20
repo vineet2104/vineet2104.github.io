@@ -11,10 +11,11 @@ I am a fourth-year PhD student at NYU, working in embodied spatial reasoning and
 
 Prior to my PhD I earned my Bachelor’s degree in Physics and Master’s in Artificial Intelligence from the Indian Institute of Technology Bombay (India).
 
-At my core, I'm a problem solver who likes to solve the toughest of problems. My interests are quite diverse - vision, robotics, data science, mathematics, physics, stock markets and I try my best to stay connected with the latest of updates in these areas. You can find my CV [here](/files/VineetBhat_Resume_NYU_Oct2026.pdf). I am looking for internship opportunities starting May 2027 across AI research and applied development, with interest in both advancing core methods and translating them into high-impact real world solutions.
+At my core, I'm a problem solver who likes to solve the toughest of problems. My interests are quite diverse - vision, robotics, data science, mathematics, physics, stock markets and I try my best to stay connected with the latest of updates in these areas. You can find my CV [here](/files/VineetBhat_Resume_NYU_Nov2026.pdf). I am looking for internship opportunities starting May 2027 across AI research and applied development, with interest in both advancing core methods and translating them into high-impact real world solutions.
 
 ## Recent News
 
+- **Oct 2026** — My paper *CLARO: Clutter Aware Robot Orchestrator for Open-Vocabulary Grasping using VLM Agents* has been accepted to **WACV 2027**!
 - **July 2026** - My paper *RESCORE: LLM-Driven Simulation Recovery in Control Systems Research Papers* has been accepted to **CDC 2026**! My advisors will be presenting it in Hawaii in Dec 2026!
 - **Feb 2026** — My paper *BOP-ASK: Object-Interaction Reasoning for Vision-Language Models* has been accepted to **CVPR 2026**! See you in Denver in June 2026!  
 - **Dec 2025** — I will be interning at NVIDIA in Summer 2026 with the Robotics Perception team under Stan Birchfield and Jonathan Tremblay.  
