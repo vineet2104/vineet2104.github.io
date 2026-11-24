@@ -15,6 +15,8 @@ At my core, I'm a problem solver who likes to solve the toughest of problems. My
 
 ## Recent News
 
+- **Nov 2026** — The [RoboBuilder project website](https://vineet2104.github.io/RoboBuilder/) is available, with precision assembly results and interactive robot demos. Paper and code coming soon.
+
 - **Oct 2026** — My paper *CLARO: Clutter Aware Robot Orchestrator for Open-Vocabulary Grasping using VLM Agents* has been accepted to **WACV 2027**!
 - **July 2026** - My paper *RESCORE: LLM-Driven Simulation Recovery in Control Systems Research Papers* has been accepted to **CDC 2026**! My advisors will be presenting it in Hawaii in Dec 2026!
 - **Feb 2026** — My paper *BOP-ASK: Object-Interaction Reasoning for Vision-Language Models* has been accepted to **CVPR 2026**! See you in Denver in June 2026!  
